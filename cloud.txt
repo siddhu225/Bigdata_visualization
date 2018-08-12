@@ -1,0 +1,46 @@
+Advertising based pricing model
+  A pricing model that offers services to customers at low or no cost, 
+with the provider being compensated by advertisers whose ads are delivered to the 
+consumer along with the service.
+
+Amazon elastic computing cloud
+  Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable
+ compute capacity in the cloud. It is designed to make web-scale computing easier for developers.
+
+Amazon Simple storage Service
+  Amazon Simple Storage Service (Amazon S3) provides a simple web services interface that 
+can be used to store and retrieve any amount of data, at any time, from anywhere on the web.
+
+AWS
+Amazon Web Services - Amazon's suite of cloud services (includes EC2, RDS, S3, SQS and VPC) that together make up their cloud computing platform.
+
+Apache hadoop
+Apache Hadoop is an open-source software framework used for distributed storage and processing of dataset of big data using the MapReduce programming model.
+ It consists of computer clusters built from commodity hardware. 
+
+Content delivery networking
+  A content delivery network (CDN) is a system of distributed servers (network) that deliver pages and other Web content to a user, 
+based on the geographic locations of the user, the origin of the webpage and the content delivery server.
+
+cloud Portability
+Cloud portability is the ability to move applications and data from one cloud computing environment to another with minimal disruption.
+
+cloud provider
+A cloud provider is a company that offers some component of cloud computing – typically Infrastructure as a Service (IaaS), 
+Software as a Service (SaaS) or Platform as a Service (PaaS) – to other businesses or individuals
+
+cloudsourcing
+Cloudsourcing is an arrangement in which a company pays a cloud provider to carry out services that could be provided in-house
+
+cloudstorage
+Cloud storage is the storage of data online in the cloud. Data is stored in and accessible from multiple distributed and connected resources.
+
+Cloudware
+Cloudware is software that runs on a remote Web server rather than on a mobile computing device,
+ personal computer (PC) or traditional on-premises application server. 
+
+Cluster
+A computer cluster is a set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system.
+
+Consumer Cloud
+Consumer Cloud Services provide email and consumer data management solutions across all channels for your data-driven marketing needs

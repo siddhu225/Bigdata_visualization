@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<title>IIITK-VizB-Services</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+.s1{font-size: 15px}
+
+.navbar {
+    overflow: hidden;
+    background-color: #e3b048;;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="navbar">
+  <a href="sa.html">Home</a>
+  <a href="contact.html">contact</a>
+  <a href="about.html">about</a>
+  <div class="dropdown">
+    <button class="dropbtn">Services
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="distribution.html">distributioncharts</a>
+      <a href="comparison.html">comparisoncharts</a>
+      <a href="relationship.html">Relationcharts</a>
+      <a href="composition.html">Compositioncharts</a>
+    </div>
+  </div>
+</div>
+
+
+
+
+<!-- Header -->
+<header class="s1" style="padding:0px 0px">
+   <h1 style="font-size:15px">Distribution Charts<h1>
+   <p style="font-size:15px">A distribution combines the merits and functionality of both Comparison and Composition. It can help you see the full data spectrum and visualize related or unrelated data points.
+     With distribution you can see if there are any correlations, trends, patterns, shapes, clusters, averages, or outliers.
+
+
+   <ul style="font-size:15px">
+      Use a distribution or deviation visualizations chart to:
+      <li>Visualize the distribution of ages in a group of people</li>
+      <li>Visualize the correlations between cause and effect</li>
+      <li>Spot bugs or constraints in production or quality control systems</li>
+      <li>Visualize sales in various stores, to spot best and worst performing ones</li>
+   </ul>
+   <ul type="square" style="font-size:15px">
+      Some of the most important distribution charts are:
+        <li><a href="/2">BOXCHART </a>  </li>
+        <li><a href="/4">DOT+BOX CHART</a>  </li>
+        <li><a href="/5">KERNALDENSITY CHART</a>  </li>
+        <li><a href="/6">NOTCHEDBOX CHART</a>  </li>
+        <li><a href="/7">TUFTEBOX CHART</a>  </li>
+        <li><a href="/8">VIOLIMBOX CHART</a>  </li>
+
+
+    </ul>
+
+
+</p>
+
+
+</header>
+
+
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+
+</body>
+</html>
